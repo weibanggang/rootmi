@@ -1,0 +1,12 @@
+手机必须解锁，解锁教程见MIUI官网
+
+手机进入fastboot模式（米兔的样子）
+
+点击运行.exe
+
+
+输入fastboot flash recovery max2.img
+
+会输出ok等字样
+
+再输入fastboot reboot，立马按住音量上不放手，即可进入twrp刷机模式
